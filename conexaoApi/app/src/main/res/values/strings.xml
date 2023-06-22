@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">conexaoApi</string>
+    <string name="no_results" />
+    <string name="str_empty" />
+</resources>
